@@ -40,4 +40,3 @@ A dual-ECU embedded system using ATmega32 microcontrollers to detect vehicle fau
 
 ## Simulation
 Proteus simulation included for full system behavior.
-## License
